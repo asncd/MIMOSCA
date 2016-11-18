@@ -1,3 +1,3 @@
 # MIMOSCA
 
-A repository for design and analysis of pooled single cell RNA-seq experiments.
+A repository for the design and analysis of pooled single cell RNA-seq perturbation experiments.
