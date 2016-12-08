@@ -6,4 +6,4 @@ This folder contains iPython notebooks that process dropseq output (examples inc
 
 <img src="http://i.imgur.com/olgUb2b.jpg" alt="Perseus" width="307" height="203">
 
-**Perseus**, is a slighlty more sophisticated option, in which the user specifies labels for cells and a set of genes that should be relatively unique for that populaiton. A random forest classifier is trained on the dataset using a diverse set of features. A filter is applied using the out of bag probability estimates to remove chimeric molecules. 
+**Perseus**, is a slighlty more sophisticated option, in which the user specifies labels for cells and a set of genes that should be relatively unique for that population. A random forest classifier is trained on the dataset using a diverse set of features. A filter is applied using the out of bag probability estimates to remove chimeric molecules. 
