@@ -1,1 +1,1 @@
-This folder contains python scripts to take as an input the output of a 10X cellranger run and provide a corrected .mtx file
+This folder contains an iPython notebook that process the dropseq output (examples included in the data subfolder) with Perseus and Theseus
