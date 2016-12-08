@@ -7,5 +7,3 @@ Theseus is a relatively brute force approach to tackling the chimera problem by 
 ![alt tag2](http://i.imgur.com/olgUb2b.jpg)
 
 Perseus, is a slighlty more sophisticated option, in which the user specifies labels for cells and a set of genes that should be relatively unique for that populaiton. A random forest classifier is trained on the dataset using a diverse set of features. A filter is applied using the out of bag probability estimates to remove chimeric molecules. 
-
-[link text itself]: http://www.reddit.com
