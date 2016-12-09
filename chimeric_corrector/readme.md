@@ -1,4 +1,4 @@
-This folder contains iPython notebooks that process Drop-seq output (examples included in the data subfolder) with **Perseus** and **Theseus**. The name [Bellerophon](http://comp-bio.anu.edu.au/Bellerophon/doc/doc.html) was taken already.
+This folder contains iPython notebooks that process Drop-seq output (examples included in the data subfolder) with **Perseus** and **Theseus** and a python script that processes 10X output run using cellranger 1.2+ with **Theseus**. The name [Bellerophon](http://comp-bio.anu.edu.au/Bellerophon/doc/doc.html) was taken already.
 
 ![alt tag](http://www.greekmythology.com/images/mythology/theseus_adventures_78.jpg)
 
