@@ -12,4 +12,4 @@ This folder contains iPython notebooks that process Drop-seq output (examples in
 Usage for 10x **Theseus** script:
 
 
-python theseus_10x.py  PATH2H5 OUTPUTPATH TPT_THRESHOLD NUMBER_OF_CELLS
+python theseus_10x.py  FULLPATH2H5.h5 OUTPUTPATH TPT_THRESHOLD NUMBER_OF_CELLS
