@@ -9,5 +9,5 @@ This folder contains iPython notebooks that process Drop-seq output (examples in
 **Perseus**, is a slighlty more sophisticated option, in which the user specifies labels for cells and a set of genes that should be relatively unique for that population. A random forest classifier is trained on the dataset using a diverse set of features. A filter is applied using the out of bag probability estimates to remove chimeric molecules. 
 
 
-Usage for 10x **Theseus** script:
+Usage for 10x **Theseus** script:\\
 python theseus_10x.py  PATH2H5 OUTPUTPATH TPT_THRESHOLD NUMBER_OF_CELLS
