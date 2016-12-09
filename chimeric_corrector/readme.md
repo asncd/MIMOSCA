@@ -1,4 +1,4 @@
-This folder contains iPython notebooks that process Drop-seq output (examples included in the data subfolder) with **scPerseus** (single cell Perseus) and **Theseus** and a python script that processes 10X output run using cellranger 1.2+ with **Theseus**. The names [Bellerophon](http://comp-bio.anu.edu.au/Bellerophon/doc/doc.html) and [Perseus](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-38) were taken already.
+This folder contains iPython notebooks that process Drop-seq output (examples included in the data subfolder) with **scPerseus** (single cell Perseus) and **Theseus** and a python script that processes 10X output run using cellranger 1.2+ with **Theseus**. The names [Bellerophon](http://comp-bio.anu.edu.au/Bellerophon/doc/doc.html) and [Perseus](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-38) were taken already in the context of PCR chimeras.
 
 ![alt tag](http://www.greekmythology.com/images/mythology/theseus_adventures_78.jpg)
 
