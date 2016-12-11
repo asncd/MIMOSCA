@@ -1,4 +1,3 @@
-
 **Theseus** is a relatively brute force approach to tackling the chimera problem by filtering molecules that, for a given cell barcode and UMI pair, have low read abundance.
 
 ![alt tag](http://www.greekmythology.com/images/mythology/theseus_adventures_78.jpg)
