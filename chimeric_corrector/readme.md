@@ -18,7 +18,7 @@ The user can define a threshold to filter molecules with low TPT.
 
 # Folder Contents
 
-This folder contains iPython notebooks that process Drop-seq output (examples included in the data subfolder) with **Yorimasa** and **Theseus** and a python script that processes 10X output run using cellranger 1.2+ with **Theseus**. The names [Bellerophon](http://comp-bio.anu.edu.au/Bellerophon/doc/doc.html) and [Perseus](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-38) were taken already in the context of PCR chimeras.
+This folder contains iPython notebooks that process Drop-seq output (examples are included in the data subfolder along with precomputed gene level features) with **Yorimasa** and **Theseus** and a python script that processes 10X output run using cellranger 1.2+ with **Theseus**.  The names [Bellerophon](http://comp-bio.anu.edu.au/Bellerophon/doc/doc.html) and [Perseus](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-38) were taken already in the context of PCR chimeras.
 
 Usage for 10x **Theseus** script:
 
