@@ -22,4 +22,6 @@ This folder contains iPython notebooks that process Drop-seq output (examples ar
 
 Usage for 10x **Theseus** script:
 
+```python
 python theseus_10x.py  FULLPATH2H5.h5 OUTPUTPATH TPT_THRESHOLD NUMBER_OF_CELLS
+```
