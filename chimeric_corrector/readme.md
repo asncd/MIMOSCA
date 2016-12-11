@@ -1,6 +1,9 @@
+#Theseus
 <img align="left" src="http://www.greekmythology.com/images/mythology/theseus_adventures_78.jpg" alt="Theseus defeating the Minatour">
 
 **Theseus** is a relatively brute force approach to tackling the chimera problem by filtering molecules that, for a given cell barcode and UMI pair, have low read abundance.
+
+#Yorimasa
 
 <img align="right" src="https://data.ukiyo-e.org/famsf/images/6340304231510089.jpg" alt="Yorimasa defeating the Nue" width="307" height="203">
 
