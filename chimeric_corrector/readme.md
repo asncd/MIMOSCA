@@ -7,7 +7,7 @@ TPT<sub>i,u</sub> = (reads<sub>i,u</sub>)/sum(reads<sub>j,u</sub>)
 
 Where the denominator is summed over all transcripts *j* sharing the same *u*.
 
-The user can define a threshold to filter molecules with low TPT.
+The user can define a threshold to filter molecules with low TPT and obtain a new expression matrix.
 
 
 # Yorimasa
