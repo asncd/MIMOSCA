@@ -12,7 +12,7 @@ The user can define a threshold to filter molecules with low TPT and obtain a ne
 
 # Yorimasa
 
-<img align="right" src="https://data.ukiyo-e.org/famsf/images/6340304231510089.jpg" alt="Yorimasa defeating the Nue" width="307" height="203">
+<img align="right" src="https://data.ukiyo-e.org/famsf/images/6340304231510089.jpg" title="Yorimasa defeating the Nue" alt="Yorimasa defeating the Nue" width="307" height="203">
 
 **Yorimasa**, is a slighlty more sophisticated option, in which the user specifies labels for cells and a set of genes that should be relatively unique for that population. A random forest classifier is trained on the dataset using a diverse set of features. A filter is applied using the out-of-bag probability estimates to remove chimeric molecules. 
 
