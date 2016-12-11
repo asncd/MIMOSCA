@@ -1,7 +1,7 @@
 # Theseus
 <img align="left" src="http://www.greekmythology.com/images/mythology/theseus_adventures_78.jpg" title="Theseus defeating the Minatour" alt="Theseus defeating the Minatour" width="250" height="247">
 
-**Theseus** is a relatively brute force approach to tackling the chimera problem by filtering molecules that, for a given cell barcode and UMI pair, have low read abundance. We call this TPT normalization and is defined as follows. For a given pair of cell barcode and UMI, *u*, and a particular transcript *i*:
+**Theseus** is a relatively brute force approach to tackling the PCR chimera problem in scRNA-seq by filtering molecules that, for a given cell barcode and UMI pair, have low read abundance. We call this TPT normalization and is defined as follows. For a given pair of cell barcode and UMI, *u*, and a particular transcript *i*:
 
 TPT<sub>i,u</sub> = (reads<sub>i,u</sub>)/sum(reads<sub>j,u</sub>)
 
