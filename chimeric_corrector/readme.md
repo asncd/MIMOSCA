@@ -17,12 +17,12 @@ The user can define a threshold to filter molecules with low TPT and obtain a ne
 **Yorimasa**, is a slighlty more sophisticated option, in which the user specifies labels for cells and a set of genes that should be relatively unique for that population. A random forest classifier is trained on the dataset using a diverse set of features. A filter is applied using the out-of-bag probability estimates to remove chimeric molecules. 
 
 The features used may include:
-1. Reads per molecule
-2. TPT
-3. Relative abundance of the cell barcode
-4. Relative abundance of the transcript
-5. Transcript GC content
-6. Transcript length
+* Reads per molecule
+* TPT
+* Relative abundance of the cell barcode
+* Relative abundance of the transcript
+* Transcript GC content
+* Transcript length
 
 # Folder Contents
 
