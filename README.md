@@ -1,7 +1,5 @@
 # MIMOSCA
 
-A repository for the design and analysis of pooled single cell RNA-seq perturbation experiments.
-
 ## Related Resources
 
 * <a href="https://groups.google.com/forum/#!forum/perturb-seq">Perturb-seq Google Forum</a>
