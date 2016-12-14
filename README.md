@@ -24,4 +24,4 @@ Still under construction and will be updated in the coming weeks.
 
 ## Computational Workflow
 
-<img src="https://github.com/asncd/MIMOSCA/blob/master/common_files/comp_flow2.png" title="Overview" alt="Overview" height=441 width=380>
+<img src="https://github.com/asncd/MIMOSCA/blob/master/common_files/comp_flow2.png" title="Overview" alt="Overview" height=662 width=569>
