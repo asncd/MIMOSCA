@@ -13,7 +13,7 @@
 * Basic Linear Model Example
 * Beta Features
 
-Still under construction will be released in the coming weeks.
+Still under construction and will be finalized in the coming weeks.
 
 <img src="http://www.clipartbest.com/cliparts/ncE/KRE/ncEKRE7Ai.gif" title="Under Construction" alt="Under Construction">
 
