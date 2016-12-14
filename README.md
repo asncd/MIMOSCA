@@ -1,4 +1,4 @@
-<img src="https://github.com/asncd/MIMOSCA/blob/master/common_files/mimosca_logo.png" title="MIMOSCA" alt="MIMOSCA">
+<img src="https://github.com/asncd/MIMOSCA/blob/master/common_files/mimosca_logo.png" title="MIMOSCA" alt="MIMOSCA" height=395 width=1489>
 
 ## Related Resources
 
