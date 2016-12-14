@@ -18,4 +18,6 @@ Still under construction and will be finalized in the coming weeks.
 
 <img src="http://www.clipartbest.com/cliparts/ncE/KRE/ncEKRE7Ai.gif" title="Under Construction" alt="Under Construction">
 
+<img src="https://github.com/asncd/MIMOSCA/blob/master/common_files/comp_knob.png" title="Experimental Design" alt="Experimental Design">
+
 <img src="https://github.com/asncd/MIMOSCA/blob/master/common_files/comp_flow.png" title="Overview" alt="Overview">
