@@ -8,7 +8,7 @@
 
 ## Contents
 
-* [Design of Experiments (DOE) and power calculations](# Design of Experiments & Power Calculations)
+* [Design of Experiments (DOE) and power calculations](#Design of Experiments & Power Calculations)
 * GBC/CBC pairing
 * Cell state definition
 * Basic Linear Model Example
