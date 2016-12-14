@@ -4,6 +4,7 @@
 
 * <a href="https://groups.google.com/forum/#!forum/perturb-seq">Perturb-seq Google Forum</a>
 * <a href="http://biorxiv.org/content/early/2016/12/12/093237">Chimera Correction</a>  and <a href="https://github.com/asncd/schimera">Code</a>
+* <a href="http://www.clontech.com/US/Products/Genome_Editing/CRISPR_Cas9/Resources/Online_tools_for_guide_RNA_design">sgRNA Design Tools</a>
 
 ## Contents
 
