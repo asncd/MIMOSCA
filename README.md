@@ -47,7 +47,8 @@ As in any pooled screen, the representation of each perturbation in the library 
 
 ### Outputs
 
+* The regulatory coefficient obtained from the model are the most informative output giving an estimate of what extent each covariate (perturbation, cell state, pairwise interaction between perturbations, etc) impacted a given gene.
 * Cell state effects are obtained by predicting the cell states based on the linear model instead of predicting gene expression
 * Cell size effects (genes detected or transcripts detected) can be predicted as well
-* The regulatory coefficient obtained from the model are the most informative output giving an estimate of what extent each covariate (perturbation, cell state, pairwise interaction between perturbations, etc) impacted a given gene.
+
 
