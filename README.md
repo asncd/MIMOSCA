@@ -22,6 +22,15 @@ Still under construction and will be updated in the coming weeks.
 
 <img src="https://github.com/asncd/MIMOSCA/blob/master/common_files/comp_knob.png" title="Experimental Design" alt="Experimental Design" height=360 width=432>
 
+In designing Perturb-seq like experiments, there are a few key factors to keep in mind:
+
+### Signatures vs. individual transcript-level phenotypes
+are you interested in broad transcriptional signatures or individual gene level differential expression? If the former, a rule of thumb to keep in mind is roughly 10 cells/perturbation. If the later, 100 or more cells may be required based on the effect size. 
+
+### Library Size and Representation
+
+As in any pooled screen, the representation of each perturbation in the library will vary. With genome wide CRISPR libraries the difference between the 10th and 90th percentile of a library is roughly 6-fold (Wang, 2013). Depending on how much a user wants to ensure every member of the library is represented, the cells/perturbation factor should be multiplied by an additional factor to reflect this variance.
+
 ## Computational Workflow
 
 <img src="https://github.com/asncd/MIMOSCA/blob/master/common_files/comp_flow2.png" title="Overview" alt="Overview" height=662 width=569>
