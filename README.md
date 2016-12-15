@@ -40,7 +40,7 @@ However, challenges include a Poisson-like variance in the number of sgRNA/cell,
 
 All three of these factors should be assessed in pilot experiments to troubleshoot. An example of such a pilot would look as follows (modified from the Drop-seq style species mixing experiments): 
 
-<img src="https://github.com/asncd/MIMOSCA/blob/master/common_files/species_mix.png" title="Species Mix" alt="SMIX">
+<img src="https://github.com/asncd/MIMOSCA/blob/master/common_files/species_mix.png" title="Species Mix" alt="SMIX" height=431 width=365>
 
 
 
