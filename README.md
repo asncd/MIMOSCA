@@ -33,3 +33,8 @@ As in any pooled screen, the representation of each perturbation in the library 
 ## Computational Workflow
 
 <img src="https://github.com/asncd/MIMOSCA/blob/master/common_files/comp_flow2.png" title="Overview" alt="Overview" height=662 width=569>
+
+The inputs to a Perturb-seq experiment are:
+1. An expression matrix output by a high throughput scRNA-seq protocol (such as the <a href="http://mccarrolllab.com/dropseq/">Drop-seq</a> or <a href="https://support.10xgenomics.com/single-cell/software/pipelines/latest/what-is-cell-ranger">10X cellranger</a>)
+2.
+3. 
