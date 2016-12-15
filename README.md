@@ -11,7 +11,6 @@
 * [Design of Experiments](https://github.com/asncd/MIMOSCA/blob/master/README.md#design-of-experiments--power-calculations)
 * GBC/CBC pairing
 * Cell state definition
-* Basic Linear Model Example
 * Beta Features
 
 Still under construction and will be updated in the coming weeks.
