@@ -37,7 +37,7 @@ As in any pooled screen, the representation of each perturbation in the library 
 ### Inputs
 * An expression matrix output by a high throughput scRNA-seq protocol (such as the <a href="http://mccarrolllab.com/dropseq/">Drop-seq</a> or <a href="https://support.10xgenomics.com/single-cell/software/pipelines/latest/what-is-cell-ranger">10X cellranger</a>)
 * Guide barcode (GBC) PCR data to pair perturbations with cell barcodes (for certain applications this may be able to be directly obtained from the RNA-seq data
-* A database of preassociated sgRNA/GBC pairs (either by Sanger sequencing or NGS
+* A database of preassociated sgRNA/GBC pairs (either by Sanger sequencing or NGS)
 
 ### Intermediate Computation
 * A simple fitness calculation is possible by determining the difference between the initial abundances of a GBC and how many cells it appeared in. 
