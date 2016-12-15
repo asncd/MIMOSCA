@@ -38,7 +38,7 @@ Our approach to use high MOI instead of either a single vector with multiple sgR
 
 However, challenges include a Poisson-like variance in the number of sgRNA/cell, sgRNA detection sensitivity, and the formation of PCR chimeras during the enrichment PCR procedure. 
 
-All three of these factors should be assessed in pilot experiments to determine troubleshoot. An example of such a pilot would look as follows (modified from the Drop-seq style species mixing experiments): 
+All three of these factors should be assessed in pilot experiments to troubleshoot. An example of such a pilot would look as follows (modified from the Drop-seq style species mixing experiments): 
 
 
 
