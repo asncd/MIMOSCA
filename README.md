@@ -34,9 +34,20 @@ As in any pooled screen, the representation of each perturbation in the library 
 
 <img src="https://github.com/asncd/MIMOSCA/blob/master/common_files/comp_flow2.png" title="Overview" alt="Overview" height=662 width=569>
 
-The inputs to a Perturb-seq experiment are:
+### Inputs
 * An expression matrix output by a high throughput scRNA-seq protocol (such as the <a href="http://mccarrolllab.com/dropseq/">Drop-seq</a> or <a href="https://support.10xgenomics.com/single-cell/software/pipelines/latest/what-is-cell-ranger">10X cellranger</a>)
 * Guide barcode (GBC) PCR data to pair perturbations with cell barcodes (for certain applications this may be able to be directly obtained from the RNA-seq data
 * A database of preassociated sgRNA/GBC pairs (either by Sanger sequencing or NGS
 
+### Intermediate Computation
+* A simple fitness calculation is possible by determining the difference between the initial abundances of a GBC and how many cells it appeared in. 
+* Guide barcodes and cell barcodes have to be paired accurately
+* A Cell state classifier is defined on wildtype or control cells and then applied to all cells in an experiment. These classifications can used as outputs to be predicted (instead of gene expression) or as covariates in the model
+* The linear model integrating all covariates (and interactions terms as desired) is fit. An EM-like approach filters cells that look much more like control cells than perturbed cells
+
+### Outputs
+
+* Cell state effects are obtained by predicting the cell states based on the linear model instead of predicting gene expression
+* Cell size effects (genes detected or transcripts detected) can be predicted as well
+* The regulatory coefficient obtained from the model are the most informative output giving an estimate of what extent each covariate (perturbation, cell state, pairwise interaction between perturbations, etc) impacted a given gene.
 
