@@ -25,7 +25,7 @@ Still under construction and will be updated in the coming weeks.
 In designing Perturb-seq like experiments, there are a few key factors to keep in mind:
 
 ### Signatures vs. individual transcript-level phenotypes
-Are you interested in broad transcriptional signatures or individual gene level differential expression? If the former, a rule of thumb to keep in mind is roughly 10 cells/perturbation. If the later, 100 or more cells may be required based on the effect size. 
+Are you interested in broad transcriptional signatures or individual gene level differential expression? If the former, a rough approximation may be around 10 cells/perturbation. If the later, 100 or more cells may be required based on the effect size. 
 
 ### Library Size and Representation
 
