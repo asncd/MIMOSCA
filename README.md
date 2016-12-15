@@ -12,6 +12,8 @@
 
 * [Design of Experiments](https://github.com/asncd/MIMOSCA/blob/master/README.md#design-of-experiments--power-calculations)
 * Guide barcode and Cell barcode pairing
+* [Computational Workflow](https://github.com/asncd/MIMOSCA/blob/master/README.md#computational-workflow)
+
 
 Still under construction and will be updated in the coming weeks. Please let me know (here or in the Google Forum) if there are any areas that you'd like to see improved or new items to be added! 
 
