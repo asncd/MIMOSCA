@@ -26,9 +26,22 @@ In designing Perturb-seq like experiments, there are a few key factors to keep i
 ### Signatures vs. individual transcript-level phenotypes
 Are you interested in broad transcriptional signatures or individual gene level differential expression? If the former, a rough approximation may be around 10 cells/perturbation. If the later, 100 or more cells may be required based on the effect size. 
 
+A similar approximation for reads/cell would be a couple thousand for signatures and tens of thousands for gene-level.
+
 ### Library Size and Representation
 
 As in any pooled screen, the representation of each perturbation in the library will vary. With genome wide CRISPR libraries the difference between the 10th and 90th percentile of a library is roughly 6-fold (Wang, 2013). Depending on how much a user wants to ensure every member of the library is represented, the cells/perturbation factor should be multiplied by an additional factor to reflect this variance.
+
+### Using High MOI to infer genetic interactions
+
+Our approach to use high MOI instead of either a single vector with multiple sgRNAs or vectors with different selection methods benefits from ease of implementation and the ability to represent a large diversity of combinations (only limited by the number of cells). 
+
+However, challenges include a Poisson-like variance in the number of sgRNA/cell, sgRNA detection sensitivity, and the formation of PCR chimeras during the enrichment PCR procedure. 
+
+All three of these factors should be assessed in pilot experiments to determine troubleshoot. An example of such a pilot would look as follows (modified from the Drop-seq style species mixing experiments): 
+
+
+
 
 ## Computational Workflow
 
