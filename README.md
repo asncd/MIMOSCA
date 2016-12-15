@@ -24,6 +24,8 @@ Still under construction and will be updated in the coming weeks. Please let me 
 
 <img src="https://github.com/asncd/MIMOSCA/blob/master/common_files/comp_knob.png" title="Experimental Design" alt="Experimental Design" height=360 width=432>
 
+For a comparison of our pilot scRNA-seq to population RNA-seq of the same perturbation, see this iPython notebook.
+
 In designing Perturb-seq like experiments, there are a few key factors to keep in mind:
 
 ### Signatures vs. individual transcript-level phenotypes
