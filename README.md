@@ -36,7 +36,7 @@ As in any pooled screen, the representation of each perturbation in the library 
 
 Our approach to use high MOI instead of either a single vector with multiple sgRNAs or vectors with different selection methods benefits from ease of implementation and the ability to represent a large diversity of combinations (only limited by the number of cells). 
 
-However, challenges include a Poisson-like variance in the number of sgRNA/cell, sgRNA detection sensitivity, and the formation of PCR chimeras during the enrichment PCR procedure. 
+However, challenges include a Poisson-like variance in the number of sgRNA/cell, sgRNA detection sensitivity, and the formation of PCR chimeras during the enrichment PCR procedure that can create misassignments. 
 
 All three of these factors should be assessed in pilot experiments to troubleshoot. An example of such a pilot would look as follows (modified from the Drop-seq style species mixing experiments): 
 
