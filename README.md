@@ -11,7 +11,7 @@
 ## Contents
 
 * [Design of Experiments](https://github.com/asncd/MIMOSCA/blob/master/README.md#design-of-experiments--power-calculations)
-* Guide barcode and Cell barcode pairing
+* Guide barcode, Cell barcode pairing
 * [Computational Workflow](https://github.com/asncd/MIMOSCA/blob/master/README.md#computational-workflow)
 
 
@@ -47,6 +47,9 @@ All three of these factors should be assessed in pilot experiments to troublesho
 
 <img src="https://github.com/asncd/MIMOSCA/blob/master/common_files/species_mix.png" title="Species Mix" alt="SMIX" height=431 width=365>
 
+## Guide Barcode, Cell Barcode Pairing
+
+<img src="https://github.com/asncd/MIMOSCA/blob/master/common_files/perturbseq_readdistribution.png" title="pseq_plasmid" alt="pseq_plasmid">
 
 
 ## Computational Workflow
