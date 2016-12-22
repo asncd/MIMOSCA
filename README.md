@@ -11,7 +11,7 @@
 ## Contents
 
 * [Design of Experiments](https://github.com/asncd/MIMOSCA/blob/master/README.md#design-of-experiments--power-calculations)
-* Guide barcode, Cell barcode pairing
+* [Guide barcode, Cell barcode pairing](https://github.com/asncd/MIMOSCA/blob/master/README.md#guide-barcode-cell-barcode-pairing)
 * [Computational Workflow](https://github.com/asncd/MIMOSCA/blob/master/README.md#computational-workflow)
 
 
