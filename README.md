@@ -51,6 +51,7 @@ All three of these factors should be assessed in pilot experiments to troublesho
 
 <img src="https://github.com/asncd/MIMOSCA/blob/master/common_files/perturbseq_readdistribution.png" title="pseq_plasmid" alt="pseq_plasmid">
 
+The distribution of reads going to the Perturbseq vector (antiparallel) from 10X RNA-seq is shown above. Note that while the expression of the construct is comprable to that of a housekeeping gene, only a fraction of the reads overlap with the 18bp barcode (colored section in the coverage track). As such, it is advisable in most cases when you have a short barcode to perform enrichment PCR. 
 
 ## Computational Workflow
 
