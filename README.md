@@ -16,7 +16,6 @@
 * [Guide barcode, Cell barcode pairing](https://github.com/asncd/MIMOSCA/blob/master/README.md#guide-barcode-cell-barcode-pairing)
 * [Computational Workflow](https://github.com/asncd/MIMOSCA/blob/master/README.md#computational-workflow)
 
-
 Still under construction and will be updated in the coming weeks. Please let me know (here or in the Google Forum) if there are any areas that you'd like to see improved or new items to be added! 
 
 
@@ -25,7 +24,7 @@ Still under construction and will be updated in the coming weeks. Please let me 
 ## FAQ
 
 * Q: How many perturbations can I do?
-* A: It costs around $0.2/cell for commercial droplet scRNA-seq methods, it takes 10 cells/perturbation to observe signature effects and 100 cells/perturbation to see individual gene level effects robustly. Based on your budget, you can crunch the numbers (also see Design of Experiments section below)
+* A: It costs around $0.2/cell for commercial droplet scRNA-seq methods, it takes ~10 cells/perturbation to observe signature effects and 100 cells/perturbation to see individual gene level effects robustly. Based on your budget, you can crunch the numbers (also see Design of Experiments section below)
 
 
 ## Design of Experiments & Power Calculations
