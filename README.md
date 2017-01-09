@@ -16,10 +16,7 @@
 * [Guide barcode, Cell barcode pairing](https://github.com/asncd/MIMOSCA/blob/master/README.md#guide-barcode-cell-barcode-pairing)
 * [Computational Workflow](https://github.com/asncd/MIMOSCA/blob/master/README.md#computational-workflow)
 
-Still under construction and will be updated in the coming weeks. Please let me know (here or in the Google Forum) if there are any areas that you'd like to see improved or new items to be added! 
-
-
-<img src="http://www.clipartbest.com/cliparts/ncE/KRE/ncEKRE7Ai.gif" title="Under Construction" alt="Under Construction">
+Please let me know (here or in the Google Forum) if there are any areas that you'd like to see improved or new items to be added! 
 
 ## FAQ
 
