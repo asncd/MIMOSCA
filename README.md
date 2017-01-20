@@ -2,7 +2,7 @@
 
 # Multiple Input Multiple Output Single Cell Analysis
 
-Named after <a href="https://en.wikibooks.org/wiki/Control_Systems/MIMO_Systems">MIMO control systems</a>, this package was designed to assist those attempting to design, perform, and analyze perturbation scRNA-seq experiments.
+Named in accordance with <a href="https://en.wikibooks.org/wiki/Control_Systems/MIMO_Systems">MIMO control systems</a>, on which a combination of perturbations and measurements can help decode the dynamics of a system, this package was designed to assist those attempting to understand biological dynamics by designing, performing, and analyzing perturbation scRNA-seq experiments.
 
 ## Related Resources
 * <a href="http://www.sciencedirect.com/science/article/pii/S0092867416316105">Our paper</a>
