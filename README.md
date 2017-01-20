@@ -1,5 +1,7 @@
 <img src="https://github.com/asncd/MIMOSCA/blob/master/common_files/mimosca_logo.png" title="MIMOSCA" alt="MIMOSCA" height=99 width=372>
 
+# Multiple Input Multiple Output Single Cell Analysis
+
 ## Related Resources
 * <a href="http://www.sciencedirect.com/science/article/pii/S0092867416316105">Our paper</a>
 * <a href="https://groups.google.com/forum/#!forum/perturb-seq">Perturb-seq Google Forum</a>
