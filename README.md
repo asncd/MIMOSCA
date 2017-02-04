@@ -25,7 +25,7 @@ Please let me know (here or in the Google Forum) if there are any areas that you
 ## FAQ
 
 * Q: How many perturbations can I do?
-* A: It costs around $0.2/cell for commercial droplet scRNA-seq methods, it takes ~10 cells/perturbation to observe signature effects and ~100 cells/perturbation to see individual gene level effects robustly. Based on your budget, you can crunch the numbers (also see Design of Experiments section below)
+* A: It costs between $0.1/cell and $0.2/cell for commercial droplet scRNA-seq methods, it takes ~10 cells/perturbation to observe signature effects and ~100 cells/perturbation to see individual gene level effects robustly. Based on your budget, you can crunch the numbers (also see Design of Experiments section below)
 
 
 ## Design of Experiments & Power Calculations
