@@ -2,14 +2,14 @@
 
 # Multiple Input Multiple Output Single Cell Analysis
 
-Named in accordance with <a href="https://en.wikibooks.org/wiki/Control_Systems/MIMO_Systems">MIMO control systems</a>, on which a combination of perturbations and measurements can help decode the dynamics of a system, this package was designed to assist those attempting to understand biological dynamics by designing, performing, and analyzing perturbation scRNA-seq experiments.
+Named after <a href="https://en.wikibooks.org/wiki/Control_Systems/MIMO_Systems">MIMO control systems</a>, in which a combination of perturbations and measurements can help decode the dynamics of a system, this package was designed to assist those attempting to understand biological dynamics by designing, performing, and analyzing perturbation scRNA-seq experiments.
 
 ## Related Resources
 * <a href="http://www.sciencedirect.com/science/article/pii/S0092867416316105">Our paper</a>
 * <a href="https://groups.google.com/forum/#!forum/perturb-seq">Perturb-seq Google Forum</a>
 * <a href="http://biorxiv.org/content/early/2016/12/12/093237">Chimera Correction</a>  and <a href="https://github.com/asncd/schimera">Code</a>
 * <a href="http://www.clontech.com/US/Products/Genome_Editing/CRISPR_Cas9/Resources/Online_tools_for_guide_RNA_design">sgRNA Design Tools</a>
-* Addgene Plasmids (to be added)
+* Addgene Plasmids  <a href="https://www.addgene.org/85967/">pBA439</a>
 * <a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE90063">GEO Database link</a>
 
 ## Contents
