@@ -66,7 +66,7 @@ The distribution of reads going to the Perturb-seq vector (antiparallel) from 10
 <img src="https://github.com/asncd/MIMOSCA/blob/master/common_files/comp_flow2.png" title="Overview" alt="Overview" height=662 width=569>
 
 ### Inputs
-* An expression matrix output by a high throughput scRNA-seq protocol (such as the <a href="http://mccarrolllab.com/dropseq/">Drop-seq</a> or <a href="https://support.10xgenomics.com/single-cell/software/pipelines/latest/what-is-cell-ranger">10X cellranger</a>)
+* An expression matrix output by a high throughput scRNA-seq protocol (such as <a href="http://mccarrolllab.com/dropseq/">Drop-seq</a> or <a href="https://support.10xgenomics.com/single-cell/software/pipelines/latest/what-is-cell-ranger">10X cellranger</a>)
 * Guide barcode (GBC) PCR data to pair perturbations with cell barcodes (for certain applications this may be able to be directly obtained from the RNA-seq data
 * A database of preassociated sgRNA/GBC pairs (either by Sanger sequencing or NGS)
 
