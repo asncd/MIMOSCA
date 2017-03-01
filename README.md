@@ -4,6 +4,9 @@
 
 Named after <a href="https://en.wikibooks.org/wiki/Control_Systems/MIMO_Systems">MIMO control systems</a>, in which a combination of perturbations and measurements can help decode the dynamics of a system, this package was designed to assist those attempting to understand biological dynamics by designing, performing, and analyzing perturbation scRNA-seq experiments.
 
+Python Dependencies: pandas, numpy, matplotlib, seaborn, scipy, sklearn, statsmodels, * <a href="
+https://github.com/facebook/fbpca">Facebook PCA</a> (though sklearn SVD or PCA should also work), nextworkx , and <a href="http://www.mapequation.org/code.html">Infomap</a> (this can be removed , 
+
 ## Related Resources
 * <a href="http://www.sciencedirect.com/science/article/pii/S0092867416316105">Our paper</a>
 * <a href="https://groups.google.com/forum/#!forum/perturb-seq">Perturb-seq Google Forum</a>
