@@ -75,7 +75,7 @@ The distribution of reads going to the Perturb-seq vector (antiparallel) from 10
 ### Intermediate Computation
 * A simple fitness calculation is possible by determining the difference between the initial abundances of a GBC and how many cells it appeared in. 
 * Guide barcodes and cell barcodes have to be paired accurately
-* A Cell state classifier is defined on wildtype or control cells and then applied to all cells in an experiment. These classifications can used as outputs to be predicted (instead of gene expression) or as covariates in the model
+* A Cell state classifier is defined on wildtype or control cells and then applied to all cells in an experiment (see this <a href="https://github.com/asncd/MIMOSCA/blob/master/Cell_States/DC_celltypes-wt-github.ipynb">iPython notebook</a>). These classifications can used as outputs to be predicted (instead of gene expression) or as covariates in the model.
 * The linear model integrating all covariates (and interactions terms as desired) is fit. An EM-like approach filters cells that look much more like control cells than perturbed cells
 
 ### Outputs
@@ -83,5 +83,9 @@ The distribution of reads going to the Perturb-seq vector (antiparallel) from 10
 * The regulatory coefficient obtained from the model are the most informative output giving an estimate of what extent each covariate (perturbation, cell state, pairwise interaction between perturbations, etc) impacted a given gene.
 * Cell state effects are obtained by predicting the cell states based on the linear model instead of predicting gene expression
 * Cell size effects (genes detected or transcripts detected) can be predicted as well
+
+
+
+
 
 
