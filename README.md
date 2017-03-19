@@ -75,8 +75,9 @@ The distribution of reads going to the Perturb-seq vector (antiparallel) from 10
 * A database of preassociated sgRNA/GBC pairs (either by Sanger sequencing or NGS)
 
 ### Intermediate Computation
-* A simple fitness calculation is possible by determining the difference between the initial abundances of a GBC and how many cells it appeared in. 
-* Guide barcodes and cell barcodes have to be paired accurately
+* Guide barcodes and cell barcodes have to be paired accurately, accounting for chimeric PCR products
+* A simple fitness calculation is possible by determining the difference between the initial abundances of a GBC and how many cells it appeared in
+* MOI and detection probability are evaluated using the observed number of GBCs/cell and a zero inflated poission distribution (see this <a href="https://github.com/asncd/MIMOSCA/blob/master/Cell_States/DC_celltypes-wt-github.ipynb">iPython notebook</a>)
 * A Cell state classifier is defined on wildtype or control cells and then applied to all cells in an experiment (see this <a href="https://github.com/asncd/MIMOSCA/blob/master/Cell_States/DC_celltypes-wt-github.ipynb">iPython notebook</a>). These classifications can used as outputs to be predicted (instead of gene expression) or as covariates in the model.
 * The linear model integrating all covariates (and interactions terms as desired) is fit. An EM-like approach filters cells that look much more like control cells than perturbed cells (see this <a href="https://github.com/asncd/MIMOSCA/blob/master/contrived-em_example.ipynb">iPython notebook</a> for an example)
 
