@@ -33,9 +33,9 @@ import statsmodels
 from statsmodels.distributions.empirical_distribution import ECDF
 
 #GO imports
-from goatools.obo_parser import GODag
-from goatools.associations import read_ncbi_gene2go
-from goatools.go_enrichment import GOEnrichmentStudy
+#from goatools.obo_parser import GODag
+#from goatools.associations import read_ncbi_gene2go
+#from goatools.go_enrichment import GOEnrichmentStudy
 
 # The following packages are typically not installed by default in Python installations, but would enable some additional functionality
 #import Levenshtein (edit_dist)
@@ -90,7 +90,7 @@ def genenames_from10x(genelist):
     genesymbol=[]
     #ensemblid=[]
     for i in range(len(genelist)):
-    	curgene=genelist[i]
+        curgene=genelist[i]
         starts=[]
         for x in re.finditer('_',curgene):
             starts.append(x.start()+1)
